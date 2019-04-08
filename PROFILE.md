@@ -1,4 +1,4 @@
-<h1>Thai Anh Van Vu</h1>
-<h2>University of Washington</h2>
-<h3>Third year</h3>
-![randomPerson](~/randomchar.jpg)
+# Thai Anh Van Vu
+## University of Washington
+### Third year
+![Random Person](imgs/randomchar.jpg)

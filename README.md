@@ -12,3 +12,5 @@ Then, write a little description about yourself with at least 2 different format
 Next, rank your favorite foods in an **unordered** list.
 
 Lastly, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+
+![Random Person](~/imgs/randomchar.jpg)
